@@ -1,0 +1,40 @@
+Berikut adalah daftar provinsi di Indonesia yang diurutkan berdasarkan nama:
+
+1. Bali
+2. Bangka Belitung
+3. Banten
+4. Bengkulu
+5. Daerah Istimewa Yogyakarta
+6. DKI Jakarta
+7. Gorontalo
+8. Jambi
+9. Jawa Barat
+10. Jawa Tengah
+11. Jawa Timur
+12. Kalimantan Barat
+13. Kalimantan Selatan
+14. Kalimantan Tengah
+15. Kalimantan Timur
+16. Kalimantan Utara
+17. Kepulauan Bangka Belitung
+18. Kepulauan Riau
+19. Lampung
+20. Maluku
+21. Maluku Utara
+22. Nanggroe Aceh Darussalam
+23. Nusa Tenggara Barat
+24. Nusa Tenggara Timur
+25. Papua
+26. Papua Barat
+27. Papua Barat Daya
+28. Papua Pegunungan
+29. Papua Selatan
+30. Riau
+31. Sulawesi Barat
+32. Sulawesi Selatan
+33. Sulawesi Tengah
+34. Sulawesi Tenggara
+35. Sulawesi Utara
+36. Sumatera Barat
+37. Sumatera Selatan
+38. Sumatera Utara

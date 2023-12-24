@@ -1,0 +1,27 @@
+1. Kabupaten Bandung
+2. Kabupaten Bandung Barat
+3. Kabupaten Bekasi
+4. Kabupaten Bogor
+5. Kabupaten Ciamis
+6. Kabupaten Cianjur
+7. Kabupaten Cirebon
+8. Kabupaten Garut
+9. Kabupaten Indramayu
+10. Kabupaten Karawang
+11. Kabupaten Kuningan
+12. Kabupaten Majalengka
+13. Kabupaten Pangandaran
+14. Kabupaten Purwakarta
+15. Kabupaten Subang
+16. Kabupaten Sukabumi
+17. Kabupaten Sumedang
+18. Kabupaten Tasikmalaya
+19. Kota Bandung
+20. Kota Banjar
+21. Kota Bekasi
+22. Kota Bogor
+23. Kota Cimahi
+24. Kota Cirebon
+25. Kota Depok
+26. Kota Sukabumi
+27. Kota Tasikmalaya

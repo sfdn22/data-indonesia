@@ -1,0 +1,8 @@
+1.	Kabupaten Lebak
+2.	Kabupaten Pandeglang
+3.	Kabupaten Serang
+4.	Kabupaten Tangerang
+5.	Kota Cilegon
+6.	Kota Serang
+7.	Kota Tangerang
+8.	Kota Tangerang Selatan

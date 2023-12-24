@@ -1,5 +1,3 @@
-Daftar kabupaten/kota di Provinsi Bali yang diurutkan berdasarkan nama:
-
 1. Badung
 2. Bangli
 3. Buleleng

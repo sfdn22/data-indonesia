@@ -1,0 +1,6 @@
+1	. Kepulauan Seribu
+2	. Jakarta Barat
+3	. Jakarta Pusat
+4	. Jakarta Selatan
+5	. Jakarta Timur
+6	. Jakarta Utara

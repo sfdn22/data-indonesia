@@ -1,9 +1,9 @@
-1. Badung
-2. Bangli
-3. Buleleng
-4. Denpasar
-5. Gianyar
-6. Jembrana
-7. Karangasem
-8. Klungkung
-9. Tabanan
+1. Kabupaten Badung
+2. Kabupaten Bangli
+3. Kabupaten Buleleng
+4. Kabupaten Gianyar
+5. Kabupaten Jembrana
+6. Kabupaten Karangasem
+7. Kabupaten Klungkung
+8. Kabupaten Tabanan
+9. Kota Denpasar

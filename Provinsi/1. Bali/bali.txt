@@ -1,0 +1,11 @@
+Daftar kabupaten/kota di Provinsi Bali yang diurutkan berdasarkan nama:
+
+1. Badung
+2. Bangli
+3. Buleleng
+4. Denpasar
+5. Gianyar
+6. Jembrana
+7. Karangasem
+8. Klungkung
+9. Tabanan
